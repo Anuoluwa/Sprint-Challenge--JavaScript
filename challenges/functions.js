@@ -50,7 +50,7 @@ consume("Mary","Poppins", greeting); // Hello Mary Poppins, nice to meet you!
 
 
 
-const external = "I'm outside the function"; s
+const external = "I'm outside the function"; 
 
 function myFunction() {
   console.log(external);
