@@ -14,8 +14,8 @@
   }
 
   class cubeMaker extends CuboidMakerClass  {
-    constructor(attributes) { // this is not actually needed is optional
-      super(attributes);
+    constructor(attributes) { // this is not actually needed is optional, it is for readability
+      super(attributes); 
     }
     volume () {
       return (this.width ** 3);
