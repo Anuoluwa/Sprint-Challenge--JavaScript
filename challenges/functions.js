@@ -45,7 +45,7 @@ consume("Mary","Poppins", greeting); // Hello Mary Poppins, nice to meet you!
 
 // Explanation: 
 // NestedFunction is within the scope of the `internal`
-// NestedFunction() is a closure, and has access to its can access: to its own scope
+// NestedFunction() is a closure, and has access to: its own scope
 // ,the myFunction() scope and the global scope.
 
 
